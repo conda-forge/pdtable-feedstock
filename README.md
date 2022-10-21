@@ -155,4 +155,5 @@ Feedstock Maintainers
 * [@JanusWesenberg](https://github.com/JanusWesenberg/)
 * [@guilhermebs](https://github.com/guilhermebs/)
 * [@jfcorbett](https://github.com/jfcorbett/)
+* [@kevarding](https://github.com/kevarding/)
 
