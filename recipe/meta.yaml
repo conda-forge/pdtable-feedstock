@@ -1,5 +1,5 @@
 {% set name = "pdtable" %}
-{% set version = "0.0.18" %}
+{% set version = "0.0.19" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 55b2a2c8fab201436979ecef63a80d3a79c309f4828d7813a5714266197c6a67
+  sha256: d18cb5565811540ac9a833bc5d585971a5147195344674b70079fe76f0c8ec6b
 
 build:
   number: 0
